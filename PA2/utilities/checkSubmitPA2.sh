@@ -42,7 +42,7 @@ echo "$stuid"
 
 
 if [ ! -d ${stuid}_pa1 ]; then
-    echo "**ERROR Cannot find directory <student id>_pa1"
+    echo "**ERROR Cannot find directory <student id>_pa2"
     cd ..
     rm -rf check_$$
     exit
