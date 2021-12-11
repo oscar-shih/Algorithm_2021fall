@@ -6,6 +6,6 @@
 
 ## HW2 : Maximum Planar Subset
 * Implemet Algorithm to solve Maximum Planar Subset with DP.
-* Top-Down method other Bottom-up
+* Top-Down method other than Bottom-up
 
 ## HW3: Cycle Breaking
