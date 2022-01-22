@@ -1,0 +1,13 @@
+Student ID: b08502141
+Name: 石旻翰
+
+How to compile and run program?
+
+Environment: 
+Ubuntu 20.04 on EDA-union U6
+
+Compile: 
+Simply type 'make' on the path '~/b08502141_pa3' and it will generate an executable binary 'cb' in '~/b08502141_pa3/bin'
+
+Run: 
+Simply type './bin/cb $1 $2' where $1 is the path of input files; $2 is the path of output files.
